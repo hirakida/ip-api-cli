@@ -1,4 +1,4 @@
-# ip-api-cli
+# ipapi-cli
 
 https://ip-api.com/
 
